@@ -1,0 +1,17 @@
+<Alloy>
+	<View id="detailView" class="container">
+	<View id="topView">
+		<Label id="descLabel"></Label>
+		<Button id="btnBack" onClick="backPage">Volver</Button>
+		<Button id="btnBasic" onClick="btnAutoClick">Auto Anterior</Button>
+ 	<Button id="btnAdvance" onClick="btnImagenClick">Imagenes</Button>
+	</View>	
+ 
+ <View id="advView">
+ 	
+ 	<TableView id="tblAdvance" >
+ 		
+  	</TableView>
+ </View>
+ </View>
+  </Alloy>

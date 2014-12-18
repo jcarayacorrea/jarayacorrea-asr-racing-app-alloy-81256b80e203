@@ -1,0 +1,7 @@
+<Alloy>
+	<View id="searchView">
+		
+		<TextField id="searchText" onReturn="searchMarca"></TextField>
+		<TableView id="tblMarca" onClick="tblClick"></TableView>
+	</View>
+</Alloy>

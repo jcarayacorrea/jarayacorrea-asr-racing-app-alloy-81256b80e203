@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0038,"key":"searchText","style":{hintText:"Ingrese marca a buscar",top:10,}},{"isId":true,"priority":100000.0039,"key":"tblMarca","style":{top:50,}},{"isId":true,"priority":100000.004,"key":"searchView","style":{top:50,}}];

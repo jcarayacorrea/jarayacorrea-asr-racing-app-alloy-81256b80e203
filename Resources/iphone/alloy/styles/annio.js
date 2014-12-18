@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0007,"key":"labelDesc","style":{top:20,}},{"isId":true,"priority":100000.0008,"key":"tablaAnnio","style":{top:50,}}];

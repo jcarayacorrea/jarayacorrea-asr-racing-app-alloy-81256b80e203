@@ -1,0 +1,10 @@
+
+".container" : {
+  backgroundColor : 'black',
+
+  
+  
+}
+"#win":{
+	orientationModes:[Ti.UI.PORTRAIT]
+}

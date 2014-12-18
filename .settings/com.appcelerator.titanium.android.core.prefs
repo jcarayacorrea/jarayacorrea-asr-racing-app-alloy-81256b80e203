@@ -1,0 +1,11 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=AsrRacing
+android/abi=armeabi-v7a
+android/distribute_path=/appTesis/workspace/AsrRacing/APK
+android/key_password=
+android/keystore_alias=
+android/keystore_password=
+android/keystore_path=
+android/recent_output=/appTesis/workspace/AsrRacing/APK
+android/sdk_version=4.1.2
+eclipse.preferences.version=1

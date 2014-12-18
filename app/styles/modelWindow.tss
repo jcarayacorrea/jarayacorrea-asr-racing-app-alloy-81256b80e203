@@ -1,0 +1,22 @@
+"#modelLabel":{
+	text : 'Seleccione Modelo',
+	top : "4%"
+}
+"#tblModelo":{
+	top:"10%"
+}
+"#modelView":{
+	top :0
+}
+"#btnBack":{
+	top: 0,
+	left:0
+	
+}
+"#topView":{
+	top:0
+}
+"#descLabel":{
+	top:0,
+	center:0
+}

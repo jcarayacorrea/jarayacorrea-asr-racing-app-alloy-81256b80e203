@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.001,"key":"anhoLabel","style":{text:"Seleccione Año",top:10,}},{"isId":true,"priority":100000.0011,"key":"tblAnho","style":{top:40,}},{"isId":true,"priority":100000.0012,"key":"modelView","style":{top:50,}}];

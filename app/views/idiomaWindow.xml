@@ -1,0 +1,8 @@
+<Alloy>
+	<View class="container">
+		<Button id="btnES" onClick="esClick">Español</Button>
+		<Button id="btnEN" onClick="enClick">English</Button>
+		<Button id="btnPO" onClick="poClick">Portugûes</Button>
+		
+	</View>
+</Alloy>

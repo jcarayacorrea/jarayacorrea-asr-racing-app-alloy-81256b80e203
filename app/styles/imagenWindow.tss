@@ -1,0 +1,54 @@
+"#imagenView":{
+	top:0
+	
+	
+}
+"#imagen":{
+	top:"5%"
+}
+"#botonView":{
+	top:"50%"
+}
+
+"#btnBack":{
+	top:"10%",
+	left :"30%",
+	title:"Back"
+}
+
+"#btnFwd":{
+	top:"10%",
+	right:"30%",
+	title:"Next"
+}
+
+"#btnTurnBack":{
+	top: 0,
+	left:0,
+	zIndex:4
+	
+}
+"#topView":{
+	top:0
+}
+"#descLabel":{
+	top:0,
+	center:0
+}
+"#fotoView":{
+	top:"10%"
+}
+"#btnShare":{
+	top:"25%"
+	
+	
+}
+
+"#shareLabel":{
+	top:"20%"
+	
+	
+}
+"#btnCome":{
+	top:"40%"
+}

@@ -1,0 +1,38 @@
+{
+    "global": {
+   "openshift":"http://rest-asrbackend.rhcloud.com/asrracing/",
+    "marcas":"rest/car/busca/marcas/",
+    "modelo":"rest/car/busca/modelo/",
+    "annio":"rest/car/busca/annio/",
+    "info":"rest/car/busca/info/",
+    "detalle":"rest/car/busca/detalle/",
+    "imagen":"rest/car/busca/imagen/",
+    "inserta": "rest/car/inserta/consultado/",
+    "consulta": "rest/car/busca/consultas/",
+    "valores": "rest/car/busca/valores/",
+    "facelogin":"rest/car/login/facebook/",
+    "insertlogin":"rest/car/login/insertauser/",
+    "checklogin":"rest/car/login/app/",
+    "fotos": "https://media.ed.edmunds-media.com",
+    "facebookAppId":"505278246269066",
+    "lang":""
+    
+    
+    },
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:android": {},
+    "os:blackberry": {},
+    "os:ios": {},
+    "os:mobileweb": {},
+    "dependencies": {
+        "ds.slideMenu":"0.1",
+        "starrating": "1.0"
+    },
+    "dataPrueba":{
+    "openshiftAndroid":"http://10.0.2.2:8080/asrracing/",
+    "openshiftIOS":"http://localhost:8080/asrracing/",
+    "openshiftt":"http://rest-asrbackend.rhcloud.com/asrracing/"
+    }
+}

@@ -1,0 +1,19 @@
+<Alloy>
+	<View id="imagenView" class="container">
+		<View id="topView">
+		<Label id="descLabel"></Label>
+		<Button id="btnTurnBack" onClick="backPage">Volver</Button>
+	</View>	
+		
+		<View id="fotoView">
+			<ImageView id="imagen"></ImageView>
+		</View>
+		<View id="botonView">
+			<Button id="btnBack" onClick="backClick"></Button>
+			<Button id="btnFwd" onClick="leftClick"></Button>
+			<Label id="shareLabel"></Label>
+			<Button id="btnShare" onClick="shareClick" backgroundImage="logo_facebook.png" backgroundSelectedImage="logo_facebook.png" ></Button>
+			<Button id="btnCome" onClick="comClick">Comment</Button>
+		</View>
+	</View>
+</Alloy>

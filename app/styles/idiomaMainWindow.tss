@@ -1,0 +1,21 @@
+"#introView":{
+	top:0
+}
+"#introLabel":{
+	top:"10%"
+}
+"#btnView":{
+	top:"50%"
+}
+"#btnES":{
+	top:"25%"
+}
+"#btnEN":{
+	top:"50%"
+}
+"#btnPO":{
+	top:"75%"
+}
+"#imLogo":{
+	top:"15%"
+}

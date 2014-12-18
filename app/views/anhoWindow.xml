@@ -1,0 +1,10 @@
+<Alloy>
+	<View id="anhoView" class="container" >
+	<View id="topView">
+		<Label id="descLabel"></Label>
+		<Button id="btnBack" onClick="backPage">Volver</Button>
+	</View>	
+		<Label  id="anhoLabel"></Label>
+		<TableView id="tblAnho" onClick="tblClick"></TableView>
+	</View>
+</Alloy>

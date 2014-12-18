@@ -1,0 +1,5 @@
+<Alloy>
+	<View class="container">
+		<Widget id="starwidget" src="starrating" max='5' initialRating='1'/>
+	</View>
+</Alloy>

@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0035,"key":"modelLabel","style":{text:"Seleccione Modelo",top:10,}},{"isId":true,"priority":100000.0036,"key":"tblModelo","style":{top:40,}},{"isId":true,"priority":100000.0037,"key":"modelView","style":{top:50,}}];

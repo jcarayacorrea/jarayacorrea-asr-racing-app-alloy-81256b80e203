@@ -1,0 +1,7 @@
+<Alloy>
+	<TableViewSection id="comentSection">
+		<TableViewRow id="comentRow">
+			<Label id="comentario"></Label>
+		</TableViewRow>
+	</TableViewSection>
+</Alloy>

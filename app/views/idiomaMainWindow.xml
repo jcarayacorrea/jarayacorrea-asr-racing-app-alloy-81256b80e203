@@ -1,0 +1,15 @@
+<Alloy>
+	<Window id="winIdioma"class="container">
+		
+		<View id="introView">
+			<Label id="introLabel">Welcome to ASR Racing</Label>
+			<ImageView id="imLogo" image="logo_asr_racing2.png"></ImageView>
+		</View>
+		<View id="btnView">
+		<Button id="btnES" onClick="esClick">Español</Button>
+		<Button id="btnEN" onClick="enClick">English</Button>
+		<Button id="btnPO" onClick="poClick">Portugûes</Button>
+		</View>
+
+	</Window>
+</Alloy>

@@ -1,0 +1,30 @@
+<Alloy>
+	<View class="container">
+		<View id="vistaTexto">
+		<TextArea id="textArea"></TextArea>
+		</View>
+		
+		<View id="tabView">
+			<TableView id="tablaComentario">
+			<TableViewSection id="comentSection" headerTitle="Juan Carlos Araya">
+			<TableViewRow id="comentRow">
+			<Label id="comentario">Excelente auto!!!!!!</Label>
+</TableViewRow>
+</TableViewSection>
+<TableViewSection id="comentSection" headerTitle="David Luis">
+<TableViewRow id="comentRow">
+<Label id="comentario">Consume Bencina mucha</Label>
+</TableViewRow>
+</TableViewSection>
+<TableViewSection id="comentSection" headerTitle="Landon Donovan">
+<TableViewRow id="comentRow">
+<Label id="comentario">A very economical car</Label>
+</TableViewRow>
+</TableViewSection>
+</TableView>	
+		</View>
+		
+	</View>	
+		
+		
+</Alloy>

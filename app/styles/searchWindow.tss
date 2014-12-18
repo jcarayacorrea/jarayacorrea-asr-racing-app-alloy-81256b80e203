@@ -1,0 +1,10 @@
+"#searchText":{
+	hintText : 'Ingrese marca a buscar',
+	top : "3%"
+}
+"#tblMarca":{
+	top:"10%"
+}
+"#searchView":{
+	top :0
+}

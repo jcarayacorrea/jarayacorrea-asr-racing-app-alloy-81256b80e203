@@ -1,0 +1,9 @@
+var args = arguments[0] || {};
+$.icon.image = args.image;
+$.title.text = args.title || '';
+$.row.idAuto = args.idAuto || '';
+$.row.customTitle = $.title;
+$.row.marca = args.marca;
+$.row.modelo = args.modelo;
+$.row.annio = args.annio;
+$.row.categoria = args.categoria;

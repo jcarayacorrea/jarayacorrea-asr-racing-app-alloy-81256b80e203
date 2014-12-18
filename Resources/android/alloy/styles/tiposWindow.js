@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0041,"key":"tiposLabel","style":{text:"Seleccione Categoria",top:10,}},{"isId":true,"priority":100000.0042,"key":"tblTipos","style":{top:40,}},{"isId":true,"priority":100000.0043,"key":"tiposView","style":{top:50,}}];
